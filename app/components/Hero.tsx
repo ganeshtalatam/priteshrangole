@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat scale-105 animate-[painterly-drift_25s_ease-in-out_infinite]"
-        style={{ backgroundImage: `url('/assets/images/pritesh.png')` }}
+        style={{ backgroundImage: `url('/assets/images/pritesh1.png')` }}
       >
         <div className="absolute inset-0 bg-brand-contrast/70 bg-gradient-to-t from-brand-contrast via-brand-contrast/40 to-black/20"></div>
       </div>
